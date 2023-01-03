@@ -6,7 +6,7 @@ This folder contains the python code, data files and plots from
 
 ["On the difficulty of learning chaotic dynamics with RNNs", Jonas Mikhaeil, Z. Monfared and D. Durstewitz](https://neurips.cc/virtual/2022/poster/53371).
 
-This package is distributed under the terms of the GNU GPLv3 & Creative Commons Attribution License. Please credit the source and cite the reference above when using the code in any from of publication.
+This package is distributed under the terms of the GNU GPLv3 & Creative Commons Attribution License. Please credit the source and cite the reference above when using the code in any form of publication.
 
 --------------
 main.py: Starts individual runs. 
