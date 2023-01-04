@@ -6,7 +6,17 @@ Code for the training of RNNs with sparsely forced BPTT.
 This folder contains the python code, data files and plots from 
 
 ["On the difficulty of learning chaotic dynamics with RNNs", Jonas Mikhaeil, Z. Monfared and D. Durstewitz](https://neurips.cc/virtual/2022/poster/53371).
-
+```
+@inproceedings{
+mikhaeil2022on,
+title={On the difficulty of learning chaotic dynamics with {RNN}s},
+author={Jonas Magdy Mikhaeil and Zahra Monfared and Daniel Durstewitz},
+booktitle={Advances in Neural Information Processing Systems},
+editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+year={2022},
+url={https://openreview.net/forum?id=-_AMpmyV0Ll}
+}
+```
 This package is distributed under the terms of the GNU GPLv3 & Creative Commons Attribution License. Please credit the source and cite the reference above when using the code in any form of publication.
 
 --------------
