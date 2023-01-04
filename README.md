@@ -1,5 +1,6 @@
  *On the difficulty of learning chaotic dynamics with RNNs*
 ------
+![Graphical summary of On the difficulty of learning chaotic dynamics with RNNs](figures/GraphSum_NeurIPS22.jpg)
 Code for the training of RNNs with sparsely forced BPTT. 
 
 This folder contains the python code, data files and plots from 
